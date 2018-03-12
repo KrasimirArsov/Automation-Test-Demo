@@ -1,3 +1,3 @@
 # Automation-Test-Demo
 
-This is Automation testing repo.
+This is Automation testing repository.
